@@ -1,5 +1,5 @@
 # HuRoS
-A 10 DoF Bipedal Walking robot, to be developed as a platform for further research on design and control of humanoid robots.
+A 10 DoF Bipedal Walking robot, to be developed as a platform for further research on design and control of humanoid robots
 
 * 3D Printer -> Contains all the CAD files of the parts which were 3D printed for fabrication.
 * CODES -> Contains all the motor control and simulation codes.
