@@ -1,4 +1,7 @@
-# HuRoS
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=HuRoS" alt="Typing SVG" />
+</a>
+
 A 10 DoF Bipedal Walking robot, to be developed as a platform for further research on design and control of humanoid robots
 
 * 3D Printer -> Contains all the CAD files of the parts which were 3D printed for fabrication.
